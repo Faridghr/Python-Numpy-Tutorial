@@ -4,8 +4,7 @@ Welcome to the Python NumPy Tutorials repository! This repository contains a col
 ## Repository Structure
 
 - **src/**: Contains the Jupyter [Notebook files](/src/Numpy_Tutorial.ipynb) with the tutorials.
-- **dataset/**: Contains the datasets used in the tutorials.
-- **notebook.html**: An exported [HTML](Numpy_Tutorial.html) version of the notebook for a quick review.
+- **NumPy_Tutorial.html**: An exported [HTML](Numpy_Tutorial.html) version of the notebook for a quick review.
 
 ## Getting Started
 
